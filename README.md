@@ -70,9 +70,9 @@ Once the System Administrators department is created, we will now add a new team
 
 
 <p>
-Next, in the osTicket settings, we shall allow anyone to create tickets. Navigate to the user settings through, Admin Panel -> Settings ->  Users -> Check "Require registration and login to create tickets". 
+Next, in the osTicket settings, we shall allow anyone to create tickets. Navigate to the user settings through, Admin Panel -> Settings ->  Users -> uncheck "Require registration and login to create tickets". 
 <p>
-<img src="https://i.imgur.com/56hnxhW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VVwBGS9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
